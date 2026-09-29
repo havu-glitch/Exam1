@@ -1,0 +1,501 @@
+Invoice ID,City,Product line,Unit price,Quantity,Date
+INV-0001,Can Tho,Home and lifestyle,20.05,5,2023-01-01
+INV-0002,Hai Phong,Health and beauty,97.06,6,2023-01-02
+INV-0003,Da Nang,Electronic accessories,101.93,19,2023-01-03
+INV-0004,Hai Phong,Home and lifestyle,93.8,5,2023-01-04
+INV-0005,Hai Phong,Sports and travel,98.95,3,2023-01-05
+INV-0006,Ho Chi Minh,Food and beverages,101.64,1,2023-01-06
+INV-0007,Da Nang,Food and beverages,34.57,6,2023-01-07
+INV-0008,Da Nang,Electronic accessories,39.75,15,2023-01-08
+INV-0009,Da Nang,Health and beauty,81.54,2,2023-01-09
+INV-0010,Hai Phong,Health and beauty,110.33,3,2023-01-10
+INV-0011,Can Tho,Sports and travel,48.2,17,2023-01-11
+INV-0012,Da Nang,Electronic accessories,76.77,12,2023-01-12
+INV-0013,Hai Phong,Food and beverages,86.71,18,2023-01-13
+INV-0014,Ho Chi Minh,Health and beauty,62.45,15,2023-01-14
+INV-0015,Can Tho,Electronic accessories,89.95,12,2023-01-15
+INV-0016,Ho Chi Minh,Health and beauty,109.47,16,2023-01-16
+INV-0017,Can Tho,Home and lifestyle,80.53,8,2023-01-17
+INV-0018,Hai Phong,Health and beauty,71.68,14,2023-01-18
+INV-0019,Hanoi,Food and beverages,61.07,17,2023-01-19
+INV-0020,Can Tho,Fashion accessories,75.64,8,2023-01-20
+INV-0021,Ho Chi Minh,Sports and travel,52.31,15,2023-01-21
+INV-0022,Hai Phong,Sports and travel,56.11,14,2023-01-22
+INV-0023,Can Tho,Food and beverages,70.85,18,2023-01-23
+INV-0024,Hanoi,Health and beauty,22.0,7,2023-01-24
+INV-0025,Hanoi,Electronic accessories,39.05,3,2023-01-25
+INV-0026,Da Nang,Health and beauty,72.0,12,2023-01-26
+INV-0027,Da Nang,Food and beverages,60.31,3,2023-01-27
+INV-0028,Ho Chi Minh,Sports and travel,49.95,14,2023-01-28
+INV-0029,Can Tho,Health and beauty,91.71,15,2023-01-29
+INV-0030,Can Tho,Sports and travel,87.84,14,2023-01-30
+INV-0031,Da Nang,Electronic accessories,32.51,7,2023-01-31
+INV-0032,Can Tho,Sports and travel,107.26,17,2023-02-01
+INV-0033,Can Tho,Sports and travel,67.02,12,2023-02-02
+INV-0034,Hanoi,Fashion accessories,92.85,4,2023-02-03
+INV-0035,Da Nang,Fashion accessories,75.18,9,2023-02-04
+INV-0036,Hai Phong,Home and lifestyle,119.76,6,2023-02-05
+INV-0037,Da Nang,Fashion accessories,94.0,16,2023-02-06
+INV-0038,Hai Phong,Sports and travel,89.23,2,2023-02-07
+INV-0039,Hanoi,Food and beverages,96.75,8,2023-02-08
+INV-0040,Ho Chi Minh,Sports and travel,30.03,11,2023-02-09
+INV-0041,Can Tho,Food and beverages,36.48,13,2023-02-10
+INV-0042,Hanoi,Food and beverages,89.98,17,2023-02-11
+INV-0043,Can Tho,Fashion accessories,66.87,8,2023-02-12
+INV-0044,Ho Chi Minh,Health and beauty,94.24,18,2023-02-13
+INV-0045,Ho Chi Minh,Electronic accessories,25.81,18,2023-02-14
+INV-0046,Hanoi,Fashion accessories,71.33,14,2023-02-15
+INV-0047,Ho Chi Minh,Fashion accessories,54.78,15,2023-02-16
+INV-0048,Hai Phong,Health and beauty,62.99,6,2023-02-17
+INV-0049,Ho Chi Minh,Electronic accessories,78.42,11,2023-02-18
+INV-0050,Can Tho,Sports and travel,67.74,13,2023-02-19
+INV-0051,Can Tho,Home and lifestyle,71.69,1,2023-02-20
+INV-0052,Can Tho,Home and lifestyle,66.07,6,2023-02-21
+INV-0053,Can Tho,Sports and travel,57.94,9,2023-02-22
+INV-0054,Hai Phong,Fashion accessories,96.05,8,2023-02-23
+INV-0055,Da Nang,Electronic accessories,16.28,11,2023-02-24
+INV-0056,Hanoi,Fashion accessories,77.84,19,2023-02-25
+INV-0057,Can Tho,Food and beverages,74.38,9,2023-02-26
+INV-0058,Ho Chi Minh,Fashion accessories,90.2,17,2023-02-27
+INV-0059,Can Tho,Fashion accessories,77.9,12,2023-02-28
+INV-0060,Ho Chi Minh,Sports and travel,101.81,14,2023-03-01
+INV-0061,Ho Chi Minh,Sports and travel,115.7,15,2023-03-02
+INV-0062,Can Tho,Sports and travel,50.97,16,2023-03-03
+INV-0063,Hai Phong,Home and lifestyle,38.87,1,2023-03-04
+INV-0064,Ho Chi Minh,Food and beverages,59.48,10,2023-03-05
+INV-0065,Ho Chi Minh,Sports and travel,45.23,8,2023-03-06
+INV-0066,Can Tho,Electronic accessories,79.57,18,2023-03-07
+INV-0067,Ho Chi Minh,Home and lifestyle,110.74,1,2023-03-08
+INV-0068,Ho Chi Minh,Health and beauty,29.61,2,2023-03-09
+INV-0069,Can Tho,Electronic accessories,25.58,1,2023-03-10
+INV-0070,Can Tho,Electronic accessories,41.88,1,2023-03-11
+INV-0071,Hanoi,Sports and travel,91.24,9,2023-03-12
+INV-0072,Hai Phong,Health and beauty,77.26,13,2023-03-13
+INV-0073,Hai Phong,Health and beauty,25.73,1,2023-03-14
+INV-0074,Ho Chi Minh,Home and lifestyle,111.47,13,2023-03-15
+INV-0075,Hai Phong,Health and beauty,97.96,7,2023-03-16
+INV-0076,Ho Chi Minh,Food and beverages,17.42,2,2023-03-17
+INV-0077,Hanoi,Sports and travel,83.39,6,2023-03-18
+INV-0078,Can Tho,Health and beauty,95.98,7,2023-03-19
+INV-0079,Can Tho,Home and lifestyle,54.32,14,2023-03-20
+INV-0080,Can Tho,Food and beverages,22.24,18,2023-03-21
+INV-0081,Hai Phong,Fashion accessories,23.12,15,2023-03-22
+INV-0082,Hanoi,Fashion accessories,25.95,2,2023-03-23
+INV-0083,Hai Phong,Food and beverages,103.25,10,2023-03-24
+INV-0084,Hai Phong,Home and lifestyle,110.62,12,2023-03-25
+INV-0085,Hanoi,Food and beverages,27.9,17,2023-03-26
+INV-0086,Hanoi,Sports and travel,39.77,8,2023-03-27
+INV-0087,Hanoi,Sports and travel,32.38,11,2023-03-28
+INV-0088,Hanoi,Fashion accessories,34.56,3,2023-03-29
+INV-0089,Can Tho,Health and beauty,102.94,6,2023-03-30
+INV-0090,Da Nang,Home and lifestyle,49.88,9,2023-03-31
+INV-0091,Da Nang,Fashion accessories,47.7,6,2023-04-01
+INV-0092,Hanoi,Health and beauty,38.88,9,2023-04-02
+INV-0093,Da Nang,Health and beauty,78.83,7,2023-04-03
+INV-0094,Da Nang,Sports and travel,54.83,9,2023-04-04
+INV-0095,Hanoi,Electronic accessories,93.15,18,2023-04-05
+INV-0096,Da Nang,Electronic accessories,36.59,12,2023-04-06
+INV-0097,Hai Phong,Food and beverages,97.72,8,2023-04-07
+INV-0098,Ho Chi Minh,Sports and travel,78.39,8,2023-04-08
+INV-0099,Ho Chi Minh,Health and beauty,27.0,18,2023-04-09
+INV-0100,Hanoi,Home and lifestyle,58.52,15,2023-04-10
+INV-0101,Can Tho,Electronic accessories,105.67,7,2023-04-11
+INV-0102,Hanoi,Health and beauty,111.91,11,2023-04-12
+INV-0103,Can Tho,Electronic accessories,63.9,16,2023-04-13
+INV-0104,Ho Chi Minh,Electronic accessories,65.49,4,2023-04-14
+INV-0105,Hanoi,Electronic accessories,111.44,6,2023-04-15
+INV-0106,Hai Phong,Home and lifestyle,76.64,3,2023-04-16
+INV-0107,Da Nang,Sports and travel,18.45,9,2023-04-17
+INV-0108,Can Tho,Home and lifestyle,110.84,10,2023-04-18
+INV-0109,Da Nang,Fashion accessories,41.06,14,2023-04-19
+INV-0110,Da Nang,Health and beauty,75.65,11,2023-04-20
+INV-0111,Hanoi,Sports and travel,32.38,18,2023-04-21
+INV-0112,Da Nang,Sports and travel,18.56,12,2023-04-22
+INV-0113,Hai Phong,Sports and travel,47.7,12,2023-04-23
+INV-0114,Da Nang,Sports and travel,96.95,13,2023-04-24
+INV-0115,Hanoi,Home and lifestyle,44.15,13,2023-04-25
+INV-0116,Hai Phong,Sports and travel,38.11,19,2023-04-26
+INV-0117,Ho Chi Minh,Food and beverages,37.33,19,2023-04-27
+INV-0118,Da Nang,Health and beauty,69.09,14,2023-04-28
+INV-0119,Hanoi,Sports and travel,117.43,4,2023-04-29
+INV-0120,Ho Chi Minh,Health and beauty,63.19,13,2023-04-30
+INV-0121,Ho Chi Minh,Food and beverages,73.52,8,2023-05-01
+INV-0122,Can Tho,Food and beverages,105.37,19,2023-05-02
+INV-0123,Hai Phong,Health and beauty,71.18,12,2023-05-03
+INV-0124,Da Nang,Electronic accessories,34.37,18,2023-05-04
+INV-0125,Hanoi,Fashion accessories,46.46,6,2023-05-05
+INV-0126,Can Tho,Electronic accessories,47.54,18,2023-05-06
+INV-0127,Hai Phong,Electronic accessories,56.72,19,2023-05-07
+INV-0128,Can Tho,Home and lifestyle,59.81,5,2023-05-08
+INV-0129,Hai Phong,Electronic accessories,98.98,9,2023-05-09
+INV-0130,Hai Phong,Sports and travel,51.69,3,2023-05-10
+INV-0131,Da Nang,Home and lifestyle,64.16,10,2023-05-11
+INV-0132,Hai Phong,Home and lifestyle,80.62,19,2023-05-12
+INV-0133,Can Tho,Food and beverages,54.66,3,2023-05-13
+INV-0134,Hai Phong,Electronic accessories,102.84,15,2023-05-14
+INV-0135,Da Nang,Food and beverages,76.68,1,2023-05-15
+INV-0136,Da Nang,Health and beauty,45.87,7,2023-05-16
+INV-0137,Can Tho,Fashion accessories,89.98,12,2023-05-17
+INV-0138,Ho Chi Minh,Home and lifestyle,70.4,17,2023-05-18
+INV-0139,Ho Chi Minh,Health and beauty,71.12,5,2023-05-19
+INV-0140,Hai Phong,Health and beauty,65.51,4,2023-05-20
+INV-0141,Hanoi,Sports and travel,67.19,12,2023-05-21
+INV-0142,Hai Phong,Fashion accessories,95.36,18,2023-05-22
+INV-0143,Can Tho,Health and beauty,25.81,17,2023-05-23
+INV-0144,Can Tho,Health and beauty,50.11,19,2023-05-24
+INV-0145,Can Tho,Fashion accessories,22.93,9,2023-05-25
+INV-0146,Can Tho,Fashion accessories,94.09,4,2023-05-26
+INV-0147,Can Tho,Health and beauty,43.59,2,2023-05-27
+INV-0148,Da Nang,Fashion accessories,109.23,4,2023-05-28
+INV-0149,Ho Chi Minh,Health and beauty,70.29,2,2023-05-29
+INV-0150,Can Tho,Health and beauty,99.08,15,2023-05-30
+INV-0151,Hanoi,Sports and travel,117.79,2,2023-05-31
+INV-0152,Hanoi,Electronic accessories,103.18,4,2023-06-01
+INV-0153,Hanoi,Health and beauty,106.03,6,2023-06-02
+INV-0154,Hanoi,Food and beverages,57.84,7,2023-06-03
+INV-0155,Da Nang,Home and lifestyle,72.93,10,2023-06-04
+INV-0156,Hanoi,Electronic accessories,41.66,19,2023-06-05
+INV-0157,Can Tho,Electronic accessories,35.59,19,2023-06-06
+INV-0158,Hai Phong,Electronic accessories,68.08,12,2023-06-07
+INV-0159,Hanoi,Sports and travel,77.48,3,2023-06-08
+INV-0160,Da Nang,Health and beauty,50.62,13,2023-06-09
+INV-0161,Da Nang,Sports and travel,74.79,18,2023-06-10
+INV-0162,Hanoi,Health and beauty,108.18,8,2023-06-11
+INV-0163,Hai Phong,Sports and travel,73.46,15,2023-06-12
+INV-0164,Hanoi,Sports and travel,90.69,1,2023-06-13
+INV-0165,Da Nang,Home and lifestyle,99.56,3,2023-06-14
+INV-0166,Ho Chi Minh,Food and beverages,118.82,8,2023-06-15
+INV-0167,Can Tho,Sports and travel,78.34,4,2023-06-16
+INV-0168,Da Nang,Home and lifestyle,99.72,16,2023-06-17
+INV-0169,Hanoi,Fashion accessories,116.08,10,2023-06-18
+INV-0170,Can Tho,Food and beverages,114.16,12,2023-06-19
+INV-0171,Hanoi,Sports and travel,29.81,14,2023-06-20
+INV-0172,Hanoi,Electronic accessories,57.67,14,2023-06-21
+INV-0173,Ho Chi Minh,Fashion accessories,49.02,2,2023-06-22
+INV-0174,Can Tho,Fashion accessories,24.13,5,2023-06-23
+INV-0175,Can Tho,Home and lifestyle,81.49,5,2023-06-24
+INV-0176,Ho Chi Minh,Fashion accessories,92.27,6,2023-06-25
+INV-0177,Da Nang,Food and beverages,104.05,13,2023-06-26
+INV-0178,Hanoi,Sports and travel,27.89,9,2023-06-27
+INV-0179,Hai Phong,Sports and travel,107.03,15,2023-06-28
+INV-0180,Hanoi,Electronic accessories,82.51,14,2023-06-29
+INV-0181,Hanoi,Home and lifestyle,88.91,7,2023-06-30
+INV-0182,Da Nang,Electronic accessories,110.62,2,2023-07-01
+INV-0183,Hanoi,Fashion accessories,80.6,7,2023-07-02
+INV-0184,Ho Chi Minh,Electronic accessories,50.27,6,2023-07-03
+INV-0185,Ho Chi Minh,Food and beverages,101.64,17,2023-07-04
+INV-0186,Can Tho,Sports and travel,53.12,2,2023-07-05
+INV-0187,Hai Phong,Fashion accessories,18.59,3,2023-07-06
+INV-0188,Hanoi,Electronic accessories,102.22,5,2023-07-07
+INV-0189,Hanoi,Home and lifestyle,51.25,5,2023-07-08
+INV-0190,Da Nang,Food and beverages,96.25,1,2023-07-09
+INV-0191,Ho Chi Minh,Food and beverages,53.09,8,2023-07-10
+INV-0192,Hai Phong,Electronic accessories,105.41,12,2023-07-11
+INV-0193,Can Tho,Sports and travel,38.05,4,2023-07-12
+INV-0194,Ho Chi Minh,Electronic accessories,117.33,13,2023-07-13
+INV-0195,Can Tho,Fashion accessories,96.87,15,2023-07-14
+INV-0196,Da Nang,Electronic accessories,26.99,11,2023-07-15
+INV-0197,Da Nang,Food and beverages,74.41,10,2023-07-16
+INV-0198,Hanoi,Electronic accessories,118.46,3,2023-07-17
+INV-0199,Hai Phong,Sports and travel,64.46,14,2023-07-18
+INV-0200,Can Tho,Home and lifestyle,34.12,16,2023-07-19
+INV-0201,Ho Chi Minh,Health and beauty,65.9,10,2023-07-20
+INV-0202,Da Nang,Electronic accessories,68.81,10,2023-07-21
+INV-0203,Hanoi,Sports and travel,92.88,12,2023-07-22
+INV-0204,Hanoi,Sports and travel,88.38,9,2023-07-23
+INV-0205,Can Tho,Home and lifestyle,57.27,1,2023-07-24
+INV-0206,Da Nang,Food and beverages,37.89,5,2023-07-25
+INV-0207,Hai Phong,Sports and travel,82.73,8,2023-07-26
+INV-0208,Da Nang,Sports and travel,59.28,11,2023-07-27
+INV-0209,Can Tho,Sports and travel,28.89,12,2023-07-28
+INV-0210,Can Tho,Sports and travel,109.56,1,2023-07-29
+INV-0211,Da Nang,Fashion accessories,87.58,11,2023-07-30
+INV-0212,Can Tho,Fashion accessories,86.73,5,2023-07-31
+INV-0213,Da Nang,Food and beverages,101.37,15,2023-08-01
+INV-0214,Ho Chi Minh,Electronic accessories,70.61,5,2023-08-02
+INV-0215,Da Nang,Sports and travel,100.58,12,2023-08-03
+INV-0216,Da Nang,Home and lifestyle,67.3,5,2023-08-04
+INV-0217,Can Tho,Electronic accessories,22.05,17,2023-08-05
+INV-0218,Can Tho,Home and lifestyle,57.55,17,2023-08-06
+INV-0219,Hanoi,Electronic accessories,67.23,12,2023-08-07
+INV-0220,Hanoi,Food and beverages,90.62,15,2023-08-08
+INV-0221,Ho Chi Minh,Sports and travel,26.19,15,2023-08-09
+INV-0222,Hanoi,Sports and travel,29.7,6,2023-08-10
+INV-0223,Da Nang,Health and beauty,42.69,12,2023-08-11
+INV-0224,Can Tho,Home and lifestyle,42.98,18,2023-08-12
+INV-0225,Hanoi,Electronic accessories,91.88,14,2023-08-13
+INV-0226,Hanoi,Electronic accessories,41.33,2,2023-08-14
+INV-0227,Ho Chi Minh,Fashion accessories,81.48,9,2023-08-15
+INV-0228,Ho Chi Minh,Health and beauty,66.9,5,2023-08-16
+INV-0229,Da Nang,Fashion accessories,75.2,1,2023-08-17
+INV-0230,Can Tho,Fashion accessories,103.0,3,2023-08-18
+INV-0231,Ho Chi Minh,Fashion accessories,57.46,6,2023-08-19
+INV-0232,Hanoi,Home and lifestyle,95.95,5,2023-08-20
+INV-0233,Can Tho,Home and lifestyle,59.31,5,2023-08-21
+INV-0234,Can Tho,Food and beverages,52.16,1,2023-08-22
+INV-0235,Hanoi,Food and beverages,115.66,17,2023-08-23
+INV-0236,Ho Chi Minh,Fashion accessories,34.36,19,2023-08-24
+INV-0237,Hanoi,Health and beauty,24.49,14,2023-08-25
+INV-0238,Can Tho,Electronic accessories,95.95,12,2023-08-26
+INV-0239,Hai Phong,Home and lifestyle,22.17,10,2023-08-27
+INV-0240,Hai Phong,Health and beauty,102.89,18,2023-08-28
+INV-0241,Da Nang,Sports and travel,60.91,11,2023-08-29
+INV-0242,Hanoi,Home and lifestyle,111.13,2,2023-08-30
+INV-0243,Hanoi,Home and lifestyle,90.76,18,2023-08-31
+INV-0244,Da Nang,Food and beverages,79.09,7,2023-09-01
+INV-0245,Da Nang,Electronic accessories,114.68,15,2023-09-02
+INV-0246,Da Nang,Electronic accessories,56.65,11,2023-09-03
+INV-0247,Can Tho,Sports and travel,115.18,18,2023-09-04
+INV-0248,Hanoi,Sports and travel,29.18,12,2023-09-05
+INV-0249,Can Tho,Home and lifestyle,65.79,6,2023-09-06
+INV-0250,Da Nang,Fashion accessories,43.34,13,2023-09-07
+INV-0251,Hanoi,Food and beverages,71.68,16,2023-09-08
+INV-0252,Can Tho,Food and beverages,32.01,18,2023-09-09
+INV-0253,Can Tho,Home and lifestyle,103.36,10,2023-09-10
+INV-0254,Da Nang,Health and beauty,103.87,8,2023-09-11
+INV-0255,Hanoi,Fashion accessories,115.3,18,2023-09-12
+INV-0256,Da Nang,Home and lifestyle,31.24,1,2023-09-13
+INV-0257,Hanoi,Fashion accessories,80.45,8,2023-09-14
+INV-0258,Hai Phong,Fashion accessories,64.79,6,2023-09-15
+INV-0259,Ho Chi Minh,Fashion accessories,51.16,5,2023-09-16
+INV-0260,Ho Chi Minh,Home and lifestyle,51.91,15,2023-09-17
+INV-0261,Ho Chi Minh,Food and beverages,58.34,15,2023-09-18
+INV-0262,Da Nang,Food and beverages,89.02,2,2023-09-19
+INV-0263,Hai Phong,Fashion accessories,77.82,1,2023-09-20
+INV-0264,Hanoi,Health and beauty,63.27,11,2023-09-21
+INV-0265,Can Tho,Electronic accessories,22.97,10,2023-09-22
+INV-0266,Hanoi,Home and lifestyle,23.17,18,2023-09-23
+INV-0267,Can Tho,Electronic accessories,15.25,18,2023-09-24
+INV-0268,Hanoi,Health and beauty,116.61,17,2023-09-25
+INV-0269,Hai Phong,Home and lifestyle,15.55,8,2023-09-26
+INV-0270,Can Tho,Fashion accessories,25.82,15,2023-09-27
+INV-0271,Da Nang,Food and beverages,48.03,8,2023-09-28
+INV-0272,Hanoi,Electronic accessories,99.78,17,2023-09-29
+INV-0273,Hanoi,Sports and travel,116.02,12,2023-09-30
+INV-0274,Can Tho,Sports and travel,97.95,8,2023-10-01
+INV-0275,Da Nang,Health and beauty,87.51,14,2023-10-02
+INV-0276,Da Nang,Fashion accessories,69.74,4,2023-10-03
+INV-0277,Hai Phong,Electronic accessories,24.1,1,2023-10-04
+INV-0278,Da Nang,Fashion accessories,115.61,1,2023-10-05
+INV-0279,Da Nang,Electronic accessories,94.63,19,2023-10-06
+INV-0280,Da Nang,Health and beauty,82.09,16,2023-10-07
+INV-0281,Ho Chi Minh,Health and beauty,94.7,14,2023-10-08
+INV-0282,Hai Phong,Sports and travel,91.03,16,2023-10-09
+INV-0283,Hanoi,Fashion accessories,81.91,5,2023-10-10
+INV-0284,Can Tho,Home and lifestyle,117.96,9,2023-10-11
+INV-0285,Hanoi,Sports and travel,109.85,2,2023-10-12
+INV-0286,Hai Phong,Fashion accessories,82.9,18,2023-10-13
+INV-0287,Can Tho,Sports and travel,87.78,6,2023-10-14
+INV-0288,Hai Phong,Home and lifestyle,20.42,9,2023-10-15
+INV-0289,Da Nang,Food and beverages,85.34,1,2023-10-16
+INV-0290,Can Tho,Food and beverages,19.64,9,2023-10-17
+INV-0291,Da Nang,Food and beverages,76.77,16,2023-10-18
+INV-0292,Hanoi,Food and beverages,119.93,13,2023-10-19
+INV-0293,Hanoi,Electronic accessories,73.36,9,2023-10-20
+INV-0294,Can Tho,Food and beverages,64.69,13,2023-10-21
+INV-0295,Can Tho,Home and lifestyle,47.85,9,2023-10-22
+INV-0296,Hai Phong,Health and beauty,27.65,11,2023-10-23
+INV-0297,Hai Phong,Health and beauty,91.76,4,2023-10-24
+INV-0298,Da Nang,Electronic accessories,35.22,2,2023-10-25
+INV-0299,Can Tho,Food and beverages,27.1,6,2023-10-26
+INV-0300,Hanoi,Food and beverages,59.29,14,2023-10-27
+INV-0301,Hai Phong,Food and beverages,98.51,4,2023-10-28
+INV-0302,Hai Phong,Sports and travel,93.23,6,2023-10-29
+INV-0303,Hanoi,Fashion accessories,20.76,19,2023-10-30
+INV-0304,Hai Phong,Sports and travel,62.79,6,2023-10-31
+INV-0305,Da Nang,Fashion accessories,69.86,2,2023-11-01
+INV-0306,Can Tho,Food and beverages,82.68,18,2023-11-02
+INV-0307,Hanoi,Food and beverages,83.27,13,2023-11-03
+INV-0308,Can Tho,Sports and travel,53.29,9,2023-11-04
+INV-0309,Hai Phong,Sports and travel,73.87,19,2023-11-05
+INV-0310,Hai Phong,Fashion accessories,65.51,13,2023-11-06
+INV-0311,Hanoi,Health and beauty,107.92,11,2023-11-07
+INV-0312,Da Nang,Fashion accessories,70.68,1,2023-11-08
+INV-0313,Ho Chi Minh,Sports and travel,61.31,7,2023-11-09
+INV-0314,Hanoi,Home and lifestyle,57.47,15,2023-11-10
+INV-0315,Ho Chi Minh,Sports and travel,75.1,1,2023-11-11
+INV-0316,Ho Chi Minh,Home and lifestyle,99.42,12,2023-11-12
+INV-0317,Da Nang,Electronic accessories,71.53,7,2023-11-13
+INV-0318,Ho Chi Minh,Sports and travel,84.47,15,2023-11-14
+INV-0319,Ho Chi Minh,Electronic accessories,92.47,19,2023-11-15
+INV-0320,Da Nang,Health and beauty,69.62,1,2023-11-16
+INV-0321,Ho Chi Minh,Fashion accessories,59.82,17,2023-11-17
+INV-0322,Ho Chi Minh,Home and lifestyle,107.05,17,2023-11-18
+INV-0323,Ho Chi Minh,Fashion accessories,58.84,3,2023-11-19
+INV-0324,Hanoi,Electronic accessories,63.5,12,2023-11-20
+INV-0325,Hanoi,Home and lifestyle,118.99,6,2023-11-21
+INV-0326,Hanoi,Fashion accessories,15.02,11,2023-11-22
+INV-0327,Da Nang,Sports and travel,34.47,3,2023-11-23
+INV-0328,Hai Phong,Food and beverages,55.32,8,2023-11-24
+INV-0329,Ho Chi Minh,Electronic accessories,112.92,14,2023-11-25
+INV-0330,Ho Chi Minh,Fashion accessories,22.35,14,2023-11-26
+INV-0331,Da Nang,Electronic accessories,16.0,10,2023-11-27
+INV-0332,Ho Chi Minh,Electronic accessories,20.53,2,2023-11-28
+INV-0333,Hanoi,Home and lifestyle,24.3,14,2023-11-29
+INV-0334,Hai Phong,Home and lifestyle,18.95,9,2023-11-30
+INV-0335,Can Tho,Food and beverages,65.38,3,2023-12-01
+INV-0336,Ho Chi Minh,Sports and travel,75.98,8,2023-12-02
+INV-0337,Hanoi,Electronic accessories,43.53,16,2023-12-03
+INV-0338,Can Tho,Fashion accessories,56.82,2,2023-12-04
+INV-0339,Hai Phong,Health and beauty,24.63,6,2023-12-05
+INV-0340,Can Tho,Electronic accessories,50.32,12,2023-12-06
+INV-0341,Hanoi,Electronic accessories,69.86,5,2023-12-07
+INV-0342,Can Tho,Food and beverages,91.89,2,2023-12-08
+INV-0343,Da Nang,Sports and travel,15.35,16,2023-12-09
+INV-0344,Can Tho,Health and beauty,64.07,5,2023-12-10
+INV-0345,Ho Chi Minh,Home and lifestyle,46.19,15,2023-12-11
+INV-0346,Ho Chi Minh,Home and lifestyle,104.55,12,2023-12-12
+INV-0347,Da Nang,Fashion accessories,90.13,4,2023-12-13
+INV-0348,Hanoi,Health and beauty,76.86,15,2023-12-14
+INV-0349,Ho Chi Minh,Home and lifestyle,44.11,11,2023-12-15
+INV-0350,Hai Phong,Fashion accessories,110.59,16,2023-12-16
+INV-0351,Ho Chi Minh,Sports and travel,19.74,6,2023-12-17
+INV-0352,Ho Chi Minh,Fashion accessories,26.49,14,2023-12-18
+INV-0353,Hanoi,Home and lifestyle,56.12,18,2023-12-19
+INV-0354,Can Tho,Food and beverages,28.07,12,2023-12-20
+INV-0355,Ho Chi Minh,Food and beverages,115.42,11,2023-12-21
+INV-0356,Da Nang,Food and beverages,98.79,13,2023-12-22
+INV-0357,Can Tho,Home and lifestyle,42.19,11,2023-12-23
+INV-0358,Hai Phong,Food and beverages,76.8,16,2023-12-24
+INV-0359,Hanoi,Health and beauty,118.14,15,2023-12-25
+INV-0360,Hai Phong,Sports and travel,107.84,15,2023-12-26
+INV-0361,Can Tho,Fashion accessories,78.08,4,2023-12-27
+INV-0362,Can Tho,Fashion accessories,109.89,11,2023-12-28
+INV-0363,Can Tho,Home and lifestyle,118.86,19,2023-12-29
+INV-0364,Hai Phong,Food and beverages,93.05,15,2023-12-30
+INV-0365,Can Tho,Food and beverages,21.82,4,2023-12-31
+INV-0366,Hai Phong,Electronic accessories,57.17,13,2024-01-01
+INV-0367,Can Tho,Sports and travel,102.97,19,2024-01-02
+INV-0368,Da Nang,Health and beauty,39.21,2,2024-01-03
+INV-0369,Can Tho,Fashion accessories,102.22,14,2024-01-04
+INV-0370,Hai Phong,Electronic accessories,27.64,4,2024-01-05
+INV-0371,Ho Chi Minh,Electronic accessories,19.93,16,2024-01-06
+INV-0372,Can Tho,Home and lifestyle,55.33,14,2024-01-07
+INV-0373,Ho Chi Minh,Fashion accessories,18.86,15,2024-01-08
+INV-0374,Da Nang,Home and lifestyle,115.51,3,2024-01-09
+INV-0375,Hanoi,Health and beauty,101.75,8,2024-01-10
+INV-0376,Da Nang,Electronic accessories,99.08,16,2024-01-11
+INV-0377,Can Tho,Electronic accessories,81.13,10,2024-01-12
+INV-0378,Ho Chi Minh,Sports and travel,37.71,4,2024-01-13
+INV-0379,Ho Chi Minh,Health and beauty,69.42,18,2024-01-14
+INV-0380,Hai Phong,Electronic accessories,77.71,2,2024-01-15
+INV-0381,Ho Chi Minh,Health and beauty,70.13,17,2024-01-16
+INV-0382,Hai Phong,Fashion accessories,42.32,13,2024-01-17
+INV-0383,Hanoi,Food and beverages,69.1,4,2024-01-18
+INV-0384,Can Tho,Electronic accessories,66.57,11,2024-01-19
+INV-0385,Hai Phong,Sports and travel,119.62,7,2024-01-20
+INV-0386,Hanoi,Fashion accessories,109.23,12,2024-01-21
+INV-0387,Ho Chi Minh,Health and beauty,63.65,10,2024-01-22
+INV-0388,Ho Chi Minh,Home and lifestyle,80.41,7,2024-01-23
+INV-0389,Hanoi,Fashion accessories,93.53,13,2024-01-24
+INV-0390,Ho Chi Minh,Electronic accessories,18.66,7,2024-01-25
+INV-0391,Hanoi,Health and beauty,108.97,17,2024-01-26
+INV-0392,Hai Phong,Food and beverages,105.31,10,2024-01-27
+INV-0393,Hai Phong,Fashion accessories,63.03,10,2024-01-28
+INV-0394,Hanoi,Electronic accessories,56.07,4,2024-01-29
+INV-0395,Hai Phong,Sports and travel,43.66,4,2024-01-30
+INV-0396,Hai Phong,Home and lifestyle,65.05,7,2024-01-31
+INV-0397,Hai Phong,Health and beauty,19.66,1,2024-02-01
+INV-0398,Da Nang,Fashion accessories,104.48,12,2024-02-02
+INV-0399,Can Tho,Fashion accessories,18.72,13,2024-02-03
+INV-0400,Ho Chi Minh,Food and beverages,49.55,10,2024-02-04
+INV-0401,Da Nang,Food and beverages,112.82,15,2024-02-05
+INV-0402,Hai Phong,Sports and travel,92.2,13,2024-02-06
+INV-0403,Hanoi,Home and lifestyle,44.55,9,2024-02-07
+INV-0404,Hai Phong,Sports and travel,41.53,9,2024-02-08
+INV-0405,Can Tho,Electronic accessories,15.53,15,2024-02-09
+INV-0406,Hai Phong,Electronic accessories,88.05,10,2024-02-10
+INV-0407,Hanoi,Sports and travel,20.12,10,2024-02-11
+INV-0408,Can Tho,Home and lifestyle,70.92,8,2024-02-12
+INV-0409,Hai Phong,Sports and travel,116.02,16,2024-02-13
+INV-0410,Can Tho,Home and lifestyle,26.49,17,2024-02-14
+INV-0411,Ho Chi Minh,Home and lifestyle,108.92,5,2024-02-15
+INV-0412,Ho Chi Minh,Health and beauty,119.1,4,2024-02-16
+INV-0413,Hai Phong,Home and lifestyle,21.46,18,2024-02-17
+INV-0414,Can Tho,Food and beverages,107.71,19,2024-02-18
+INV-0415,Hanoi,Home and lifestyle,69.19,4,2024-02-19
+INV-0416,Hai Phong,Home and lifestyle,110.18,7,2024-02-20
+INV-0417,Ho Chi Minh,Home and lifestyle,74.99,10,2024-02-21
+INV-0418,Ho Chi Minh,Electronic accessories,84.52,18,2024-02-22
+INV-0419,Hai Phong,Food and beverages,72.1,19,2024-02-23
+INV-0420,Can Tho,Food and beverages,105.77,4,2024-02-24
+INV-0421,Ho Chi Minh,Sports and travel,92.06,10,2024-02-25
+INV-0422,Can Tho,Health and beauty,69.73,1,2024-02-26
+INV-0423,Ho Chi Minh,Home and lifestyle,106.16,18,2024-02-27
+INV-0424,Ho Chi Minh,Fashion accessories,40.75,5,2024-02-28
+INV-0425,Da Nang,Health and beauty,31.52,15,2024-02-29
+INV-0426,Ho Chi Minh,Health and beauty,31.84,17,2024-03-01
+INV-0427,Hanoi,Food and beverages,50.07,3,2024-03-02
+INV-0428,Hai Phong,Health and beauty,40.06,12,2024-03-03
+INV-0429,Hai Phong,Home and lifestyle,112.66,2,2024-03-04
+INV-0430,Can Tho,Home and lifestyle,26.11,1,2024-03-05
+INV-0431,Ho Chi Minh,Electronic accessories,88.39,17,2024-03-06
+INV-0432,Hanoi,Home and lifestyle,34.87,16,2024-03-07
+INV-0433,Can Tho,Home and lifestyle,107.57,5,2024-03-08
+INV-0434,Da Nang,Food and beverages,115.94,15,2024-03-09
+INV-0435,Can Tho,Home and lifestyle,63.87,3,2024-03-10
+INV-0436,Can Tho,Electronic accessories,107.3,7,2024-03-11
+INV-0437,Ho Chi Minh,Fashion accessories,15.54,11,2024-03-12
+INV-0438,Da Nang,Food and beverages,101.09,10,2024-03-13
+INV-0439,Can Tho,Fashion accessories,39.01,9,2024-03-14
+INV-0440,Hanoi,Food and beverages,110.41,14,2024-03-15
+INV-0441,Hanoi,Sports and travel,15.12,13,2024-03-16
+INV-0442,Hai Phong,Health and beauty,73.4,2,2024-03-17
+INV-0443,Da Nang,Sports and travel,94.45,3,2024-03-18
+INV-0444,Da Nang,Home and lifestyle,42.16,7,2024-03-19
+INV-0445,Hai Phong,Fashion accessories,35.28,18,2024-03-20
+INV-0446,Can Tho,Home and lifestyle,23.83,3,2024-03-21
+INV-0447,Da Nang,Health and beauty,49.28,10,2024-03-22
+INV-0448,Hanoi,Food and beverages,73.78,7,2024-03-23
+INV-0449,Hanoi,Health and beauty,27.16,9,2024-03-24
+INV-0450,Ho Chi Minh,Electronic accessories,54.55,17,2024-03-25
+INV-0451,Da Nang,Health and beauty,15.95,11,2024-03-26
+INV-0452,Can Tho,Electronic accessories,100.96,7,2024-03-27
+INV-0453,Hai Phong,Health and beauty,28.49,14,2024-03-28
+INV-0454,Hai Phong,Electronic accessories,44.75,19,2024-03-29
+INV-0455,Can Tho,Fashion accessories,16.93,4,2024-03-30
+INV-0456,Ho Chi Minh,Home and lifestyle,60.39,6,2024-03-31
+INV-0457,Hai Phong,Home and lifestyle,103.21,10,2024-04-01
+INV-0458,Da Nang,Sports and travel,56.18,7,2024-04-02
+INV-0459,Ho Chi Minh,Home and lifestyle,33.85,13,2024-04-03
+INV-0460,Da Nang,Food and beverages,94.14,14,2024-04-04
+INV-0461,Hanoi,Health and beauty,97.82,4,2024-04-05
+INV-0462,Ho Chi Minh,Sports and travel,33.24,8,2024-04-06
+INV-0463,Hai Phong,Food and beverages,95.94,5,2024-04-07
+INV-0464,Ho Chi Minh,Food and beverages,114.47,1,2024-04-08
+INV-0465,Ho Chi Minh,Electronic accessories,32.47,4,2024-04-09
+INV-0466,Ho Chi Minh,Home and lifestyle,95.95,3,2024-04-10
+INV-0467,Ho Chi Minh,Fashion accessories,89.4,9,2024-04-11
+INV-0468,Da Nang,Fashion accessories,64.73,8,2024-04-12
+INV-0469,Hanoi,Sports and travel,21.08,1,2024-04-13
+INV-0470,Can Tho,Fashion accessories,22.84,6,2024-04-14
+INV-0471,Ho Chi Minh,Health and beauty,104.5,9,2024-04-15
+INV-0472,Hai Phong,Fashion accessories,118.97,7,2024-04-16
+INV-0473,Ho Chi Minh,Sports and travel,85.99,4,2024-04-17
+INV-0474,Hai Phong,Fashion accessories,61.83,13,2024-04-18
+INV-0475,Da Nang,Health and beauty,83.0,17,2024-04-19
+INV-0476,Hai Phong,Electronic accessories,77.41,2,2024-04-20
+INV-0477,Can Tho,Sports and travel,55.28,5,2024-04-21
+INV-0478,Hanoi,Electronic accessories,21.89,12,2024-04-22
+INV-0479,Hai Phong,Electronic accessories,101.26,8,2024-04-23
+INV-0480,Hai Phong,Electronic accessories,54.04,6,2024-04-24
+INV-0481,Hanoi,Food and beverages,100.97,8,2024-04-25
+INV-0482,Can Tho,Home and lifestyle,41.51,18,2024-04-26
+INV-0483,Ho Chi Minh,Food and beverages,15.11,3,2024-04-27
+INV-0484,Hai Phong,Home and lifestyle,31.69,12,2024-04-28
+INV-0485,Hanoi,Electronic accessories,64.2,3,2024-04-29
+INV-0486,Da Nang,Sports and travel,114.15,6,2024-04-30
+INV-0487,Hanoi,Home and lifestyle,25.73,2,2024-05-01
+INV-0488,Da Nang,Health and beauty,104.69,12,2024-05-02
+INV-0489,Can Tho,Health and beauty,70.34,2,2024-05-03
+INV-0490,Ho Chi Minh,Fashion accessories,101.72,6,2024-05-04
+INV-0491,Hanoi,Home and lifestyle,46.33,17,2024-05-05
+INV-0492,Hai Phong,Sports and travel,103.19,3,2024-05-06
+INV-0493,Can Tho,Food and beverages,96.15,2,2024-05-07
+INV-0494,Hanoi,Electronic accessories,39.16,8,2024-05-08
+INV-0495,Hai Phong,Fashion accessories,28.79,12,2024-05-09
+INV-0496,Hanoi,Health and beauty,106.15,4,2024-05-10
+INV-0497,Da Nang,Food and beverages,116.14,5,2024-05-11
+INV-0498,Hanoi,Food and beverages,18.29,13,2024-05-12
+INV-0499,Hanoi,Electronic accessories,91.78,15,2024-05-13
+INV-0500,Hanoi,Home and lifestyle,110.5,16,2024-05-14
